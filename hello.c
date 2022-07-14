@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("hello\n");
+ ds   printf("hello\n");
 }
 
-ng he
+kkkkkkkng he
