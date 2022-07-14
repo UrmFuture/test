@@ -5,4 +5,4 @@ int main()
     printf("hello\n");
 }
 
-int he
+char he
