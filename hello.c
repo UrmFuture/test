@@ -5,4 +5,4 @@ int main()
     printf("hello\n");
 }
 
-long he
+ng he
