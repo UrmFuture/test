@@ -2,7 +2,12 @@
 
 int main()
 {
- ds   printf("hello\n");
+    printf("hello\n");
+}
+
+int main()
+{
+    printf("hello\n");
 }
 
 kkkkkkkng he
