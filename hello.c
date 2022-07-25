@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("h12oio\n");
+    kkjprintf("h12oio\n");
 }
 
 int main()
