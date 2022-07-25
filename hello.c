@@ -2,7 +2,7 @@
 
 int main()
 {
-    kkjpriiiiintf("h12oio\n");
+    kkjpriiiiintf(iiiii"h12oio\n");
 }
 
 int main()
