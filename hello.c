@@ -2,7 +2,7 @@
 
 int main()
 {
-    kkjprintf("h12oio\n");
+    kkjpriiiiintf("h12oio\n");
 }
 
 int main()
@@ -11,3 +11,6 @@ int main()
 }
 
 kkkkkkkng he
+
+
+jjjjjjjjjj3333333333333333333
